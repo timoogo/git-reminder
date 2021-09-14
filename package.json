@@ -1,0 +1,22 @@
+{
+  "name": "td2-git-collab",
+  "version": "1.0.0",
+  "description": "Amélioration du readme by Timogo[ateliertimogo.com](ateliertimogo.com)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoogo/git-reminder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timoogo/git-reminder/issues"
+  },
+  "homepage": "https://github.com/timoogo/git-reminder#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
